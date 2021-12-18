@@ -1,0 +1,6 @@
+.card.img {
+  z-index: 50;
+  border-radius: 3px;
+  text-decoration: none;
+  box-shadow: 0 7px 17px 0 rgba(103, 84, 116, 0.18);
+}
